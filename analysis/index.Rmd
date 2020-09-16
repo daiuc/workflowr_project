@@ -16,6 +16,10 @@ editor_options:
 
 ## **Workflowr challenge**
 
+### Complete the link circle: 
+
+* [Angela Chun](https://kkanga01.github.io/myproject/) 
+
 ### TEAM - C. Jacchus
 
 * [Angela Chun](https://kkanga01.github.io/myproject/) 
