@@ -14,7 +14,7 @@ editor_options:
 ## Workflowr challenge
 
 ** TEAM - C. Jacchus ** 
-![logo](../data/Callithrix_jacchus.png)
+![logo](Callithrix_jacchus.png)
 
 * [person A](http://google.com) 
 * [person B](http://theverge.com)
