@@ -23,7 +23,7 @@ editor_options:
 * [Bei Wang](https://google.com)
 * [Dan Krochmal](http://google.com)
 * [Rio Salazar](http://google.com)
-* [Daniela Olivera-Velarde](http://google.com)
+* [Daniela Olivera-Velarde](https://dani-ol-vel.github.io/myproject/)
 * [Chao Dai](https://daiuc.github.io/workflowr_project)
 
 
