@@ -23,10 +23,10 @@ editor_options:
 ### TEAM - C. Jacchus
 
 * [Angela Chun](https://kkanga01.github.io/myproject/) 
-* [Alex Hoover](https://rsalazar2.github.io/myproject/)
-* [Bei Wang](https://google.com)
-* [Dan Krochmal](http://google.com)
-* [Rio Salazar](http://google.com)
+* [Alex Hoover](https://amhoover.github.io/myproject/)
+* [Bei Wang](https://beiwo07.github.io/myproject_test/)
+* [Dan Krochmal](https://sn0wscape.github.io/qBio6_reproducibility_session/)
+* [Rio Salazar](https://rsalazar2.github.io/myproject/)
 * [Daniela Olivera-Velarde](https://dani-ol-vel.github.io/myproject/)
 * [Chao Dai](https://daiuc.github.io/workflowr_project)
 
