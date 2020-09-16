@@ -8,16 +8,25 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Welcome to my new site!
+# *Welcome to my new site!*
 
+<br><br><br>
 
-## Workflowr challenge
+---
 
-** TEAM - C. Jacchus ** 
-![logo](Callithrix_jacchus.png)
+## **Workflowr challenge**
+
+### TEAM - C. Jacchus
 
 * [person A](http://google.com) 
 * [person B](http://theverge.com)
 
-## tutorial 
+
+---
+
+<br>
+
+## *Tutorial* 
+
+
 * [Teeth growth analysis](teeth.html): A demo analysis on teeth growth.
