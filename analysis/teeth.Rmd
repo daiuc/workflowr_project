@@ -1,0 +1,43 @@
+---
+title: "teeth"
+author: "daiuc"
+date: "2020-09-16"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r import-teeth}
+teeth = read_csv('data/teeth.csv') %>% select(-X1) %>% mutate_at('dose', factor)
+head(teeth)
+```
+
+```{r}
+ggplot(teeth) + geom_boxplot(aes(dose, len), outlier.stroke = ) +
+    theme_classic()
+ggplot(teeth) + geom_boxplot(aes(dose, len), outlier.stroke = ) +
+    theme_classic()
+ggplot(teeth) + geom_boxplot(aes(paste0(dose, '_', supp), len), outlier.stroke = ) +
+    theme_classic()
+```
+
+
+```{r permute}
+# observed difference in teeth length due to supplement method
+map(c('OJ', 'VC'), ~ filter(teeth, supp == .x) %>% pull(len) %>% mean) %>% unlist %>% diff
+
+# permute the observations
+set.seed(123)
+teeth_perm = teeth %>% mutate_at('supp', ~ sample(.x))
+
+# calculate mean diff in permuted data
+map(c('OJ', 'VC'), ~ filter(teeth_perm, supp == .x) %>% pull(len) %>% mean) %>% unlist %>% diff
+```
+
