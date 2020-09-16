@@ -18,8 +18,13 @@ editor_options:
 
 ### TEAM - C. Jacchus
 
-* [person A](http://google.com) 
-* [person B](http://theverge.com)
+* [Angela Chun](https://kkanga01.github.io/myproject/) 
+* [Alex Hoover](https://rsalazar2.github.io/myproject/)
+* [Bei Wang](https://google.com)
+* [Dan Krochmal](http://google.com)
+* [Rio Salazar](http://google.com)
+* [Daniela Olivera-Velarde](http://google.com)
+* [Chao Dai](https://daiuc.github.io/workflowr_project)
 
 
 ---
