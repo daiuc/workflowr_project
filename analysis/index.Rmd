@@ -8,4 +8,8 @@ editor_options:
   chunk_output_type: console
 ---
 
-my first site built by workflowr. 
+## Welcome!
+
+
+
+* [Teeth growth analysis](teeth.html): A demo analysis on teeth growth.
